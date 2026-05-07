@@ -79,7 +79,7 @@ export default function SeccionVideos() {
         }
       `}</style>
 
-      <div className="section-title">Sección VI</div>
+      <div className="section-title"></div>
       <div className="section-subtitle">Galería de Videos</div>
 
       <SectionDivider />
