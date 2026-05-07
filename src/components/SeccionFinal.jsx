@@ -1,12 +1,3 @@
-// src/components/SeccionFinal.jsx
-// Página final — despedida con mensaje de cierre
-// ─────────────────────────────────────────────────
-// PERSONALIZAR:
-//   · Cambia el texto en final-text
-//   · Cambia el texto en final-label
-//   · Para imagen de fondo: agrega style con backgroundImage
-// ─────────────────────────────────────────────────
-
 import Stars from './Stars'
 import SectionDivider from './SectionDivider'
 import CandleRow from './CandleRow'
@@ -17,7 +8,7 @@ export default function SeccionFinal() {
       <Stars />
 
       <div className="final-content">
-        <div className="final-dove">🕊️</div>
+        <div className="final-dove"></div>
 
         <div className="final-title gold-text">Hasta que nos volvamos a ver</div>
         <SectionDivider />
