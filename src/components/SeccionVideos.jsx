@@ -1,10 +1,10 @@
 import SectionDivider from './SectionDivider'
 
 const VIDEOS = [
-  { type: 'youtube', id: 'HUzvkWP66_E', label: '' },
+  { type: 'youtube', id: '509CNOyY2rI', label: '' },
   { type: 'youtube', id: '7R7bo72fa5k', label: '' },
   { type: 'youtube', id: 'dkBBkg4Taeo', label: '' },
-   { type: 'youtube', id:'QZVbkuCN350', label: '' },
+   { type: 'youtube', id:'ZEZAe0S9Cgs', label: '' },
    { type: 'youtube', id:'TeI5Kq0Svvw', label: '' },
 ]
 
