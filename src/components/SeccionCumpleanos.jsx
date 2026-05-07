@@ -13,7 +13,7 @@ const GALLERY_ITEMS = [
 const VIDEOS = [
   { src: 'https://res.cloudinary.com/dq6ssao8d/video/upload/v1778125459/v1_rvifo5.mp4' },
   { src: 'https://res.cloudinary.com/dq6ssao8d/video/upload/v1778125471/v2_onzy5u.mp4' },
-  { src: 'https://res.cloudinary.com/dq6ssao8d/video/upload/v1778125481/a1_t15vnz.mp4' }
+  
 ]
 
 export default function SeccionCumpleanos() {
